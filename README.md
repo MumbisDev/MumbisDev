@@ -22,7 +22,6 @@ I'm currently an aspiring full stack developer focused on creating intuitive app
 
 **Tools & Practices:**
 - Git/GitHub
-- System Architecture
 - UI/UX Design Principles
 - Test-Driven Development
 
