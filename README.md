@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm mumbis 👋
 
-<!--
-**MumbisDev/MumbisDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer focused on creating intuitive, user-centric solutions. I'm passionate about building software that enhances human experiences and makes technology more accessible.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+- React/Redux
+- JavaScript/TypeScript
+- HTML/CSS
+- Responsive Design
+
+**Backend:**
+- Flask
+- Express.js
+- SQLAlchemy
+- RESTful APIs
+
+**Database:**
+- PostgreSQL
+- SQLite
+
+**Tools & Practices:**
+- Git/GitHub
+- System Architecture
+- UI/UX Design Principles
+- Test-Driven Development
+
+## 💡 What I Do
+- Build full-stack web applications with focus on user experience
+- Design and implement efficient database solutions
+- Create responsive, accessible user interfaces
+- Optimize application performance
+
+## 📫 Let's Connect
+- Portfolio: [Your portfolio URL]
+- LinkedIn: [Your LinkedIn]
+- Twitter: [Your Twitter]
+
+---
+*"Technology is best when it brings people together." - Matt Mullenweg*
