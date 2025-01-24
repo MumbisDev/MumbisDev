@@ -32,8 +32,8 @@ I'm currently an aspiring full stack developer focused on creating intuitive app
 - Optimize application performance
 
 ## 📫 Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/zildjian-crumpton-99079a180/]
-- Twitter/X: [https://x.com/MumbisDev]
+- [LinkedIn](https://www.linkedin.com/in/zildjian-crumpton-99079a180/)
+- [Twitter/X](https://x.com/MumbisDev)
 
 ---
 *"Technology is best when it brings people together." - Matt Mullenweg*
