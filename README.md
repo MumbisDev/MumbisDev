@@ -26,15 +26,14 @@ I'm currently an aspiring full stack developer focused on creating intuitive app
 - Test-Driven Development
 
 ## 💡 What I Do
-- Build full-stack web applications with focus on user experience
-- Design and implement efficient database solutions
-- Create responsive, accessible user interfaces
+- Build applications with a focus on user experience
+- Design and implement database configurations
+- Create responsive and accessible user interfaces
 - Optimize application performance
 
 ## 📫 Let's Connect
-- Portfolio: [Your portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
+- LinkedIn: [https://www.linkedin.com/in/zildjian-crumpton-99079a180/]
+- Twitter/X: [https://x.com/MumbisDev]
 
 ---
 *"Technology is best when it brings people together." - Matt Mullenweg*
