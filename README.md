@@ -1,6 +1,6 @@
-# Hi there, I'm mumbis 👋
+# Hi there, I'm Mumbis 👋
 
-Full stack developer focused on creating intuitive, user-centric solutions. I'm passionate about building software that enhances human experiences and makes technology more accessible.
+I'm currently an aspiring full stack developer focused on creating intuitive applications. I'm passionate about building software that enhances human experiences and makes technology more accessible.
 
 ## 🛠️ Tech Stack
 
